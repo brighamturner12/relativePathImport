@@ -1,0 +1,1 @@
+The `relativePathImport` class provides various utilities to handle paths in a project and allows you to work with relative paths, navigate backwards in the directory structure, and import modules from relative file locations. It works for both windows and linux.
